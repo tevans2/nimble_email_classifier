@@ -9,9 +9,7 @@ from categorize import categorize
 
 # BASE_URL = "https://nimblegroupservicedesk.freshservice.com/api/v2"
 BASE_URL = "https://tateinc.freshdesk.com/api/v2"
-# Personal
-API_KEY = "xy0VxtuqILcMHyA56jB"
-# API_KEY = "GDAYbAUGv45YuHkhGLS"
+API_KEY = os.environ["TATEINC_API_KEY"]
 PASSWORD = "123"
 URL = BASE_URL + "/tickets"
 
