@@ -36,6 +36,43 @@ def get_wordnet_pos(tag):
         return None
 
 
+payment_target_words = [
+    "payment",
+    "pay",
+    "settle",
+    "settlement",
+    "agreement",
+    "arrangement",
+    "arrange",
+    "balance",
+    "due",
+    "overdue",
+    "outstanding",
+    "arrears",
+    "remit",
+    "remittance",
+    "clear",
+    "resolve",
+    "satisfy",
+    "repay",
+    "sum",
+    "amount",
+    "owed",
+    "debt",
+    "payment plan",
+    "settlement offer",
+    "payoff",
+    "installment",
+    "due date",
+    "late",
+    "collection",
+    "outstanding balance",
+    "negotiate",
+    "reconciliation",
+    "debit order",
+    "debit",
+]
+
 pwd_req_target_words = [
     "account number",
     "cannot open",
@@ -90,6 +127,6 @@ def all_intersection(word_list, reference_list):
 def classify_phrase_intent(text: str) -> str:
     lemmatized_words = lemmatize_words(word_tokenize(text))
 
-    if any_intersection(pwd_req_target_words, lemmatized_words):
+    if any_intersection(payment_target_words, lemmatized_words):
         return "1"
     return "0"

@@ -1,7 +1,11 @@
 import csv
 
-input_csv_path = "data/Nimble real data/pwd_req_real_data.csv"
-output_csv_path = "data/Nimble real data/pwd_req_real_data_formated.csv"
+input_csv_path = (
+    "C:/Users/TateE/Documents/data/Nimble real data/email_balanced_data.csv"
+)
+output_csv_path = (
+    "C:/Users/TateE/Documents/data/Nimble real data/email_balanced_data_short.csv"
+)
 delimiter = ";"
 search_string = "info@nimblegroup.co.za> "
 
@@ -14,11 +18,11 @@ with open(input_csv_path, "r", newline="", encoding="latin-1") as input_file, op
     for row in csv_reader:
         # Assuming the email field is in the first column (index 0)
         if row and len(row) > 0:
-            email = row[0]
+            email = row[1]
             index = email.find(search_string)
             if index != -1:
                 # Remove text after the specified string
-                row[0] = email[: index - len(search_string)]
+                row[1] = email[:index]
             csv_writer.writerow(row)
 
 print(

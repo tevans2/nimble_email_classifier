@@ -9,14 +9,16 @@ OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
 def classify_phrase_intent(text: str) -> str:
     # Generate a conversation with the GPT-3.5-turbo model
+    payment_prompt = f"You are an email classifier working for a debt collections company. Your role is to identify emails in which a debtor is attempting to make a payment/settlement arrangement. Any email in which a debtor is trying to pay must be identified by responding with a 1. Any other category must be labled with a 0. 1 - the email does fall into the given category. 0 - the email body is related to a different subject matter\nDo not explain your choice."
+    pwd_prompt = "Debtors of a debt collection company have to use their account number to open personal documents and often they do not know their account number or don't know that they have to enter it to view their documents. As a result of this our company gets a large number of emails responses to shared documents inquiring about how to open them or what the customers account number is. I want to be able to isolate these types of emails from the rest of incoming emails. Determine whether the following email body falls into this category of people having trouble accesing their documents '{text}'.\nOutput only one of the following options according to your choice: 1 - the email does fall into the given category. 0 - the email body is related to a different subject matter\nDo not explain your choice."
     conversation = [
         {
             "role": "system",
-            "content": "Debtors of a debt collection company have to use their account number to open personal documents and often they do not know their account number or don't know that they have to enter it to view their documents. As a result of this our company gets a large number of emails responses to shared documents inquiring about how to open them or what the customers account number is. I want to be able to isolate these types of emails from the rest of incoming emails. Determine whether the following email body falls into this category of people having trouble accesing their documents '{text}'.\nOutput only one of the following options according to your choice: 1 - the email does fall into the given category. 0 - the email body is related to a different subject matter\nDo not explain your choice.",
+            "content": payment_prompt,
         },
         {
             "role": "user",
-            "content": f"Decide if the following is an account number/password request (1) or if it is unrelated (0): '{text}'.\nOutput only one of the following options exactly as written in the set and do not explain your choice: [1, 0]",
+            "content": f"Decide if the following is a payment/settlement arrangement (1) or if it is unrelated (0): '{text}'.\nOutput only one of the following options exactly as written in the set and do not explain your choice: [1, 0]",
         },
     ]
 

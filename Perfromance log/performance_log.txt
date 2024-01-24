@@ -3047,3 +3047,445 @@ weighted avg       1.00      0.69      0.82       100
     accuracy                           0.56       100
    macro avg       0.50      0.78      0.36       100
 weighted avg       1.00      0.56      0.72       100
+
+2024-01-22 14:47:30 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.70      0.79      9516
+           1       0.30      0.66      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.68      0.60     11393
+weighted avg       0.81      0.69      0.73     11393
+
+2024-01-22 14:49:24 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.70      0.79      9516
+           1       0.30      0.66      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.68      0.60     11393
+weighted avg       0.81      0.69      0.73     11393
+
+2024-01-22 14:50:12 - Nltk_lemma Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.81      0.76      0.78      9516
+           1       0.08      0.10      0.09      1877
+
+    accuracy                           0.65     11393
+   macro avg       0.44      0.43      0.44     11393
+weighted avg       0.69      0.65      0.67     11393
+
+2024-01-22 14:56:40 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.70      0.79      9516
+           1       0.30      0.66      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.68      0.60     11393
+weighted avg       0.81      0.69      0.73     11393
+
+2024-01-22 14:57:27 - Nltk_lemma Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.81      0.76      0.78      9516
+           1       0.08      0.10      0.09      1877
+
+    accuracy                           0.65     11393
+   macro avg       0.44      0.43      0.44     11393
+weighted avg       0.69      0.65      0.67     11393
+
+2024-01-22 14:59:41 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.63      0.75      9516
+           1       0.30      0.80      0.43      1877
+
+    accuracy                           0.65     11393
+   macro avg       0.62      0.71      0.59     11393
+weighted avg       0.83      0.65      0.70     11393
+
+2024-01-22 15:07:03 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.63      0.75      9516
+           1       0.30      0.80      0.43      1877
+
+    accuracy                           0.65     11393
+   macro avg       0.62      0.71      0.59     11393
+weighted avg       0.83      0.65      0.70     11393
+
+2024-01-22 15:09:39 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.63      0.75      9516
+           1       0.30      0.80      0.43      1877
+
+    accuracy                           0.65     11393
+   macro avg       0.62      0.71      0.59     11393
+weighted avg       0.83      0.65      0.70     11393
+
+2024-01-23 08:43:40 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.69      0.79      9516
+           1       0.30      0.69      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.69      0.60     11393
+weighted avg       0.82      0.69      0.73     11393
+
+2024-01-23 08:46:11 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.69      0.79      9516
+           1       0.30      0.69      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.69      0.60     11393
+weighted avg       0.82      0.69      0.73     11393
+
+2024-01-23 08:47:14 - Nltk_lemma Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.60      0.73      9516
+           1       0.28      0.80      0.42      1877
+
+    accuracy                           0.63     11393
+   macro avg       0.61      0.70      0.57     11393
+weighted avg       0.83      0.63      0.68     11393
+
+2024-01-23 08:53:01 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.69      0.79      9516
+           1       0.30      0.69      0.42      1877
+
+    accuracy                           0.69     11393
+   macro avg       0.61      0.69      0.60     11393
+weighted avg       0.82      0.69      0.73     11393
+
+2024-01-23 08:54:02 - Nltk_lemma Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.60      0.73      9516
+           1       0.28      0.80      0.42      1877
+
+    accuracy                           0.63     11393
+   macro avg       0.61      0.70      0.57     11393
+weighted avg       0.83      0.63      0.68     11393
+
+2024-01-23 09:21:17 - Openai_davinci Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00        52
+           1       0.49      1.00      0.65        49
+
+    accuracy                           0.49       101
+   macro avg       0.74      0.50      0.33       101
+weighted avg       0.75      0.49      0.32       101
+
+Correctly classified phrases:
+Phrase: 'Good morning I want to settle this amount what is my balance now? Sent from my phone -------- Original message -------- From: Nimb'
+Phrase: 'Dear Writer Where is the copy of contract I requested? Regards, On Thu, Feb 23, 2023 at 9:51 PM Norman'
+Phrase: 'Hi, I requested a callback to arrange a payment. I have full intentions to pay the account but am currently struggling to do so. Kindly call be before 10am tomorrow if possible please. Kind regards, Arlene On Mon, 06 Mar 2023, 22:34 Norman '
+Phrase: 'Good evening I ??ould not open the letter I will pay more into the account the end of March R200 I am employed contract again now. Thank you Jennifer Thompson 2023.3.6 On Mon, 13 Feb 2023, 18:13 Norman '
+Phrase: 'I will like to pay my account but I can't find the SBSA bank,please tell me the name of the bank Sent from my Huawei phone -------- Original message -------- From: Norma'
+Phrase: 'Hi I will pay my account month end. R500 THANKS On Tue, 07 Mar 2023, 1:24 am Norman '
+Phrase: 'Can I make arrangement to pay R300 every month on the 15 th. Kind regards Nokukhanya Blose On Mon, 6 Mar 2023, 19:45'
+Phrase: 'Hi, I would like to pay a payment, can I go ahead with it? Kind regard. Zoe Sent from my phone -------- Original message -------- From: Norma'
+Phrase: 'Morning will try to pay from this month. I was realy struckling. Kind Regards Jonathan Messiahs On Mon, Mar 6, 2023, 9:54 PM Norman'
+Phrase: 'I will do the payment this weekend. On Mon, Mar 6, 2023, 22:34 Norman'
+Phrase: 'Hinhope allnis good I will be able to afford R150 a month On Mon, 06 Mar 2023, 22:07 Norman '
+Phrase: 'Good day I instructed you to do a debit on the 28th February and you didn't. Kind Regards,Xolile Sent from Yahoo Mail on Android On Mon, 6 Mar 2023 at 20:32, Norm'
+Phrase: 'Payment was made on the 2nd. Check your system No payment received on your Mr Price account. Pay using https://payat.io/qr/1140381518105 Call: NBA 0872505532 Ref: 10MR29359 On Wed, 15 Feb 2023, 16:53 Norman '
+Phrase: 'Good day, The consumers have applied for debt counselling. Please provide a COB so payments can start. Disclaimer This message and any attachments may be confidential and may also be privileged or otherwise protected from disclosure. They are sent for the attention of the named addressee(s) only. If you are not the named addressee(s) please notify the sender immediately and destroy this message. In this case, you should not copy or distribute this message or attachments, use it for any purpose or disclose its contents to any other person. Opinions, conclusions and other information in this message that do not relate to the official business of the firm/company shall be understood as neither given nor endorsed by it. Daleen Nieuwoudt Attorneys, accepts no liability for any damage caused by any virus transmitted by this e-mail. Daleen Nieuwoudt Attorneys retains the copyright in this message as well as all attachments hereto if it was created by an employee of Daleen Nieuwoudt Attorneys. From: Norma'
+Phrase: 'Good day Im waiting for a SARS Clearance to get money from a pension fund. Pls send me a mail again in the next month or so. Thanks... On Tue, 7 Mar 2023, 00:06 Norman '
+Phrase: 'Good Day Can we communicate via email? I work in a high noise area and can't hear my phone. I'd like to make payment arrangements that's suitable for me. Kind regards Amieda On Mon, 06 Mar 2023, 21:42 Norman '
+Phrase: 'good day team please not that you have to derbit the money from 31 each and every month my salary only comes on the 31 of every month thank you your faithful noluvo Yvonne pahlindlela. On Fri, Feb 3, 2023, 1:32 A'
+Phrase: 'I did make payment the same day i received a call to make arrangements to pay so i can not understand how its not paid On Mon, 06 Mar 2023, 20:48 Nim'
+Phrase: 'I want to pay and make payment arrangements On Mon, 06 Mar 2023, 18:44'
+Phrase: 'To whom may concern Good morning I received the email regarding my pay just now credit and I haven't forgotten about it,my problem is that am not working ryt now am only receiving grant for 2 kids and the amount I to pay it's beyond me I won't survive. I don't know what will do but I will see month end how much I can get to pay that debts. Thank you Mbali On Mon, 6 Mar 2023, 23:02'
+Phrase: 'Stuur vir my die bedrag wat uitstaande is On Tue, 07 Mar 2023, 00:55 Norman '
+Phrase: 'Good Day I would like sincerely offer my apology for not responding nor making payment I had unfortunate events happen which led me to hospital. Payment due will be made before end of the week. Thank you On Wed, 15 Feb 2023, 8:03 pm Norman'
+Phrase: 'Good Morning I am aware of my arrangement however I can only start paying from the first of April due to a start of new job. Please assist asap. On Mon, Mar 6, 2023, 8:44 PM Norman'
+Phrase: 'Hi Hope you well this day's I really wanted to activate my account and start paying for my credit slowly but didn't get that option give to me Please advise what can i do next to get this going Thanks Lita matabaro Sent from my phone -------- Original message -------- From: Ni'
+Phrase: 'Hi can i make new arrangement towards my wonga account On Mon, Mar 6, 2023, 10:41 PM Norman'
+Phrase: 'I will pay R250 at the end of this month. Thank you Hayley Nel On Mon, 6 Mar 2023, 22:55 Norman '
+Phrase: 'dear NIMBLE I would like to do debit order for every Friday just R100 starting from 24 march. should you wish to call me: Monday to friday @16:00 weekend im available @ any time. Thank you '
+Phrase: 'Cheque of saving Acc because I want to be able to pay via EFT from my FNB app account Sent from my Huawei Mobile -------- Original Message -------- Subject: Victor Vuyolwethu, your credit record is in danger. From: Nimble Credit Fund 1 To: moalusivv@gmail.com CC: This email is intended for Victor Vuyolwethu Moalusi Account number: 16xx45xx72. If this is not you, please disregard and contact Nimble Credit Fund 1 on 087 286 0223 / info@nimblegroup.co.za to have your details removed from our system. You broke your commitment. Our Ref: 20CAP20106 Date: 2023/03/06 Dear Victor Vuyolwethu Our records indicate that payment for your Capitec account 20CAP20106 has not been received. Did you over commit? Do not worry, these things happen and we understand. Let us help you fix it before it causes even more harm to your credit record. We suggest you act today. You can of course pay from home via any of our convenient digital channels: Should you not be able to settle the account, you can arrange a suitable repayment plan that you can afford. A little is better than nothing. WE SUGGEST: - Using our easy-to-use NimblePay app - Give us a call on 087 286 0223 - Our safe and secure, dedicated self-service portal here: Visit FOR EFT OR CASH DEPOSIT AT THE BANK - OUR BANKING DETAILS ARE: Bank SBSA Account Holder NCF1 Capitec Branch Code 020909 Account Number 073100757 Please use the ref: 20CAP20106 We look forward to helping you towards your financially free future! sincerely, The team at Nimble Credit Fund 1 087 286 0223 ? ? ? ? ? The Nimble Group. 35 Brickfield Rd, Salt River, Cape Town. Visit our website '
+Phrase: 'Good morning Can i please start paying R500 from April On Tue, 7 Mar 2023, 00:50 Norman '
+Phrase: 'Good day I do not work at the moment and only live of childcare from my kids father.I can make payment of R200 at end of March. Regards On Wed, 08 Mar 2023, 01:58 Norman '
+Phrase: 'Can we make payment arrangements? From'
+Phrase: 'Which bank specifically? On Wed, Mar 8, 2023 at 12:49?PM Norman'
+Phrase: 'Good afternoon Can u deduct 500.00 from my salary from 15th march 2023? Kind regards Mokotedi MNJ On Fri, Feb 3, 2023, 02:0'
+Phrase: 'Good evening I would like to make arrangements on my installment date On Mon, 06 Mar 2023, 18:45'
+Phrase: 'Good day, Trust all is well. Please call regarding my payments because the banking details given to me whenever i pay the payment reject back to my account due to account not supported. call to arrange debit order on 0608730357. Thank you. Regards, KM Letswalo 0608730357 On Mon, Mar 6, 2023 at 7:39?PM Norman'
+Phrase: 'Hi Norman How much you suggest for monthly installments? On Wed, Mar 8, 2023 at 1:27?AM Norman'
+Phrase: 'Thanks very much for your time and your lenient. I'm having s problem of not having money but I promise that soon as I get it I will pay. Thanks On Mar 8, 2023 01:58, "Norman'
+Phrase: 'Can I be able to pay this amount through pick n pay On Mon, 06 Mar 2023, 23:09'
+Phrase: 'How much do i owe wonga Can i get a discount because wonga closed my account so i am not able to see how much i am owing and i don't have any action to pay On Tue, 07 Mar 2023, 00:18 Norman '
+Phrase: 'Good evening Please find attached my proof of payment. I will pay the remaining amount the end of this week. '
+Phrase: 'Please send me settlement quotes of all the accounts i have there. On Wed, 08 Mar 2023, 17:14 Norman '
+Phrase: 'Call me to make payment arrangements. KOVINDHREE GOVENDER (AWKA 653546) Established Financial Adviser | Personal Financial Advice: KZN BCOMM 114 Musgrave Road, 4th Floor, Musgrave Centre, Durban T. +27 (0)31 2504 122 C.+27 (0)63 128 2283 E. KGovender3@oldmutual.com<mailto:KGovender3@oldmutual.com> http://www.oldmutual.co.za<https://protect-za.mimecast.com/s/wHB5CoYmgAhlK680iz7QPC?domain=oldmutual.co.za> f. http://facebook.com/OldMutualSA<https://protect-za.mimecast.com/s/33dkCpgnj9UQxpyBTYsnWh?domain=facebook.com> t. @OldMutualSA [OM] From: Norma'
+Phrase: 'Good morning Can we please arrange a payment plan of 250 pm. I got robbed on the 26th of Jan. And eversince then I have not been able to buy a phone hence I'm using emails. Thank you Shirley Sent from Yahoo Mail on Android On Thu, Mar 9, 2023 at 4:38, N'
+Phrase: 'Good day, I'm struggling to make a payment due to unemployment. Can I get assistance in payment plan cause I cannot pay R640 in cash On Monday, March 6, 2023'
+Phrase: 'Good Evening Nimble Hope all is well with you. Note that I'm aware of this payment and I currently I'm not working , beside I'm pushing so hard to get or have money on my account every month and I'm failing because I'm busy seeking for a job right now. Kindly please assist me on how to do going forward please please. Because I don't wanna promise you lie again. Your help will be highly appreciated. Thank you Mduduzi Mabena On Mon, 06 Mar 2023, 19:53 Nimble'
+Phrase: 'Can you kindly make settlement deduction for my presless account and sent me settlement letter for this month Kind regards Kutlwano On Tue, Feb 21, 2023, 6:27 P'
+Phrase: 'Good morning, is it possible if I can pay it off please On Fri, 10 Mar 2023, 03:47 Norman '
+Phrase: 'Good day Trust you are well Do you have any snapscan details for your account please? Thanks in advance Yours sincerely Liesl B L.B Webb On Thu, 23 Feb 2023, 13:57 I'
+Phrase: 'Good day, To whom may it concern. Apologies, I am currently unemployed but will try make payment of R50,00. Hope you understand. Thank you. Kind regards, Ms. Flucks On Wed, 08 Mar 2023, 22:28 Norman'
+
+2024-01-23 09:24:32 - Openai_gpt35 Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.85      0.77      0.81        52
+           1       0.78      0.86      0.82        49
+
+    accuracy                           0.81       101
+   macro avg       0.81      0.81      0.81       101
+weighted avg       0.82      0.81      0.81       101
+
+Correctly classified phrases:
+Phrase: 'Greetings I'm asking for statement cos every month I'm paying via Capitec bank please '
+Phrase: '[image: WhatsApp Image 2023-05-18 at 08.09.35.jpg] Forwarded message --------- From: Val Cleinwerck <vcleinwerck@gmail.com> Date: Sat, Apr 8, 2023 at 8:29?AM Subject: Re: Letter of Demand To: Norman Bissett & Associates <legal@nimblegroup.co.za> Good Morning I trust this email finds you well. A blessed Easter weekend to you Just to advice i went to the UIF and they said i need a letter with a letterhead from you for issuing an unemployment letter thank you Regards Valencia On Wed, Mar 8, 2023 at 7:34?AM Norman Bissett & Associates < legal@nimblegroup.co.za> wrote: > Good day Sir/Madam, > > The letter and content is intended for Kleinwerck, V, Ms . If this is not > you please disregard this email. > > A letter of demand has been issued by Norman Bissett & Associates for your > outstanding ADT account REF JHKLE00731 / 84232232 as ceded. > > If you have any queries: Contact us on 087 286 0223, download our > NimblePay App http://hyperurl.co/npa1 > <http://post.spmailtechno.com/f/a/A-bvQ3InoTzlVM5JQ9lETg~~/AAJAsQA~/RgRl6qNnP0QXaHR0cDovL2h5cGVydXJsLmNvL25wYTFXA3NwY0IKZAFnHghkGUNpKVIVdmNsZWlud2VyY2tAZ21haWwuY29tWAQAAAAA> or > reply to this email. > > Regards, > > Norman Bissett & Associates > > Use account number as password to open document > '
+Phrase: 'Good day Please see attached POA for the above mentioned client . we need updated COB Thank you KINDLY NOTE THAT YOUR EMAIL WILL BE ATTENDED WITHIN 3 WORKING DAYS. Kind Regards Freedom Debt Advice 084 753 7837 info@freedomdebtadvice.co.za http://www.freedomdebtadvice.co.za<http://www.freedomdebtadvice.co.za/> '
+Phrase: 'Morning Please send me an updated statement. Thank you On Sat, 18 Feb 2023, 16:02 Nimble'
+Phrase: 'Good day Hope you are well. Can you PLS send me an update statement. I want to send it to my bookkeeper to audit all Directaxes. Thanks D Eastes On Thu, 2 Mar 2023, 22:43 Norman '
+Phrase: 'Good day Regarding the above mentioned Consumer, we wish to inform that Accord Debt Solutions is mandated by the Consumer to assist with Debt Management re-structuring services. Herewith attached please find documentation for your perusal. As per the Power Of Attorney / Mandate provided, we hereby provide instruction to have the Consumer's details updated as follows so as to attend to any future queries on the matter. Accord Debt Solutions <mailto:accord@adsadr.co.za> accord@adsadr.co.za '
+Phrase: 'Good morning Even to this day I have not received my statement, I would like to know why it is so difficult for you to send my statement after the whole two montat of my request? *Regards'
+Phrase: 'Hi This is zanele ntini,I would to ask for my credit statement my ID 8901150589084 Kind regards Z.E Ntini '
+Phrase: 'Good day FYI Regards Deon Sekoe On Sat, 13 May 2023, 10:19 Norman '
+Phrase: 'Good Evening Please send me the statement every month end Regards MA Letsapa Disclaimer This Email and its contents are subject to the Eskom Holdings SOC Ltd EMAIL LEGAL NOTICE which can be viewed at https://www.eskom.co.za/about-eskom/email-legal-spam-disclaimer/ '
+Phrase: 'Dear Nimble Group I am very upset about the fact that you guys are debiting me and not updating my payments . I will not hesitate and take this up with ombudsman if you do not update my payments. You have been debiting me monthly and still the amount did not change. I will stop the debit order mandate immediately if this is not sorted out. My id number is 9107260171081. Regards 0740157019 On Fri, 12 May 2023, 00:11 Norman '
+Phrase: 'Good morning, please note that I phoned your offices at 10am this morning and spoke to Louis. He is as clueless as ever, can only tell me there is supposedly an amount of R3147.43 ??outstanding?? but cannot tell me what ADT claims they have been servicing. I find this absolutely appauling! I have since phoned ADT and spoken to Denel who has advised that ADT have been charging on two separate accounts for the same property which is their mistake and which she will rectify with the accounts department at ADT. She has advised that she will contact your offices directly to advise you to quit harassing me via email as my account DEF00281 is up to date as it is paid via debit order. I trust this is the last time I will receive communication from you in this regard. Yours sincerely Sandie Horn 0832876266 From: Norman Bissett & Associates [mailto:info@nimblegroup.co.za] Sent: 13 May 2023 10:42 AM To: malsands@mweb.co.za Subject: Your ADT Account has been ceded to Nimble Group <http://post.spmailtechno.com/q/6MF2s5sS85p48wFQDneRsg~~/AAJAsQA~/RgRmQdJmPVcDc3BjQgpkUWZNX2R85q8HUhNtYWxzYW5kc0Btd2ViLmNvLnphWAQAAAAA> This email is intended for Horn Account number: JHxxR0xx74. If this is not you, please disregard and contact Norman Bissett & Associates on 087 286 0223 / info@nimblegroup.co.za to have your details removed from our system. <https://master.nimblegroup.co.za/emails/images/256/Mailer_Logo_Header.jpg> <https://master.nimblegroup.co.za/emails/images/371/COVID-19_L4_-_ACtivationn.jpg> Talk to us Our ref: 30280244 Date: 2023/05/13 Dear Horn We have endeavored to make contact with you regarding your ADT Account, however, we have failed to get hold of you. Nimble Group would like to discuss your ADT account at your most convenient time. Call 087 286 0223 Ref 30280244 Action required We require you to make urgent contact with us, either via email (by replying) or via a call on 087 286 0223/3/4 to make an arrangement on your account. Otherwise, WhatsApp us at +27600985100 to chat should you have any questions. We also have a convenient self-service website where you can manage your account and take control of your future. <http://post.spmailtechno.com/f/a/2Xp8KE-y_bftfNyoSGEjKg~~/AAJAsQA~/RgRmQdJmP0QWaHR0cHM6Ly9iaXQubHkvM2NPV2JiaVcDc3BjQgpkUWZNX2R85q8HUhNtYWxzYW5kc0Btd2ViLmNvLnphWAQAAAAA> Visit Thanking you in advance for your co-operation ?? failure to make contact may result in unnecessary costs charged onto your account. We look forward to helping you reach your financial goals. <https://master.nimblegroup.co.za/emails/images/371/PRO_TIP_-_1.jpg> Sincerely, The team at Norman Bissett & Associates 087 286 0223 ? ? <http://post.spmailtechno.com/f/a/jrMS7o2a5wLV82e1oO4s4A~~/AAJAsQA~/RgRmQdJmP0QVaHR0cDovL2JpdC5seS8yS0FuMndiVwNzcGNCCmRRZk1fZHzmrwdSE21hbHNhbmRzQG13ZWIuY28uemFYBAAAAAA~> ? Visit our website. <http://post.spmailtechno.com/f/a/kW62lKvtqEH_CB_5g-TLeQ~~/AAJAsQA~/RgRmQdJmP0QZaHR0cDovL25pbWJsZWdyb3VwLmNvLnphL1cDc3BjQgpkUWZNX2R85q8HUhNtYWxzYW5kc0Btd2ViLmNvLnphWAQAAAAA> <http://post.spmailtechno.com/f/a/qaiMhAzqW3cw-YiuAtyhuw~~/AAJAsQA~/RgRmQdJmP0QlaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL05pbWJsZUdyb3VwL1cDc3BjQgpkUWZNX2R85q8HUhNtYWxzYW5kc0Btd2ViLmNvLnphWAQAAAAA> Norman Bissett & Associates is a subsidiary of The Nimble Group. The Nimble Group. 35 Brickfield Rd, Salt River, Cape Town. <http://post.spmailtechno.com/q/tPJ9fJ_YF1QFYFIBxbLsVw~~/AAJAsQA~/RgRmQdJmPlcDc3BjQgpkUWZNX2R85q8HUhNtYWxzYW5kc0Btd2ViLmNvLnphWAQAAAAA> This email has been checked for viruses by Avast antivirus software. https://www.avast.com/antivirus '
+Phrase: 'Good day, I would like an activity statement of my account ref: 10MR09407 which I have been paying since early 2022. I would like to see where I am at with my balance due. Please send before my next payment is due in a week. Kind regards, Gary Scagell On Thu, 30 Mar 2023 at 17:46, Norman'
+Phrase: 'Good day Hope you are well please send my statement as a do not receive my statment als send with password thanks as the password do not work that was provided to me 1. Africa bank Ref 4al051499l 2. Africa bank 4al050735c 3. Standard bank 23sb18376 Account holder Mp van den berg 8804085284088 Thanks email to wambachclaudia@gmail.com '
+Phrase: 'Pls send me statements On Tue, 23 May 2023, 13:30'
+Phrase: 'Please forward me my account details '
+Phrase: ' From: Khethiwe Mbele <KhethiweM@debtrepairsol.co.za> Sent: Wednesday, May 24, 2023 8:09 AM To: Zanele Ngobese <ZaneleN@debtrepairsol.co.za> Subject: FW: BALANCE REQUEST-Dibuseng Cathrine Khasapane-8212140806087 Handed ove. From: EDC@tenacityinc.co.za<mailto:EDC@tenacityinc.co.za> <EDC@tenacityinc.co.za<mailto:EDC@tenacityinc.co.za>> Sent: Tuesday, May 23, 2023 3:42 PM To: Zanele Ngobese <ZaneleN@debtrepairsol.co.za<mailto:ZaneleN@debtrepairsol.co.za>> Subject: Re: BALANCE REQUEST-Dibuseng Cathrine Khasapane-8212140806087 WITHOUT PREJUDICE Dear Sir/Madam, OUR CLIENT: Dibuseng Cathrine Khasapane ID NO. : 8212140806087 ACC NO. : 1020200212016003854 We advise that we act on behalf of Dibuseng Cathrine Khasapane ,our client. A copy of our client's Special Power of Attorney is attached hereto for your attention. Our client has requested us to obtain the full outstanding balance allegedly due, owing, and payable to yourselves and/or your client including capital, interest, and costs. Albeit that it is our client's intention to enter Debt Mediation, we confirm that this serves merely as a request for the outstanding balance and is in no way an acknowledgement of any monies allegedly owing by our client neither is it an offer to pay. Should the account have been settled, kindly provide us with a paid-up letter. Please send your reply to: @debtrepairsol.co.za <mailto:_pearl@debtrepairsol.co.za> __ We thank you for your kind assistance herein and look forward to receiving your response hereto. Yours sincerely [cid:image0] '
+Phrase: 'Good day I havent received any feedback regarding my email below? Can you please urgently provide me with feedback. Best regards Charne On Sat, 13 May 2023 at 16:54, Charne Pool <charne.pool07@gmail.com> wrote: > Good day > > Can you please send me detailed statement of each payment collect thus far. > > Best Regards > Charne > > On Sat, 13 May 2023 at 06:14'
+Phrase: 'Good morning please forward my statement.. Regards Refiloe Mapena '
+Phrase: 'Good morning. Could you please send me a detailed statement in order for me to make an informed decision On Thu, 25 May 2023, 04:13 Norman '
+Phrase: 'Dear, Sir /Madam I have request for my of my statement, It's been to long I have been paying this account, I need to know what is going on please On Sat, 13 May 2023, 04:20'
+Phrase: 'Good day May you please send me statement. On Tue, 23 May 2023, 13:48 Norman '
+Phrase: 'Good morning Sello Please find attached the letter of cancelation and the Retrenchment documents. Thanks for your cooperation in this matter Willem I'd. 6902155021083 Cell. 0609744784 Forwarded message --------- From: Willem Oosthuizen <willem16oosthuizen@gmail.com> Date: Fri, 02 Dec 2022, 07:20 Subject: Retrenchment documents for W.J OOSTHUIZEN ID6902155021083 To: <financeconsumerquery@tracker.co.za> As discussed over the phone. I am being retrenched and can no longer afford to pay this service. Can you please cancel this service for me. Thank you very much for your cooperation in this matter. Willem Oosthuizen '
+Phrase: 'Good day Can i please have the statement of this account. Thank you. On Wed, May 24, 2023 at 4:42'
+Phrase: 'Hi Can you please get telematix to contact me because something doesn't make sense here, when I signed in BENONI I was told that it's a pay as you go as in i pay ahead and if I don't pay my tracker is not active nd I would not be owing them anything. My contact number is 065 9222 456. Thank you Regards NHLANHLA NGUBENI On Thu, 25 May 2023, 10:28 Norman '
+Phrase: 'I will ask her or him about the balance of me I will regards '
+Phrase: 'Good day Please send me a statement Kind regards Theodora Robinson theodorarlzaan@gmail.com pop12@goedgedacht.org 0223000170 0827324711 ? On Thu, May 25, 2023 at 6:24?AM Nim'
+Phrase: 'Can plz email me my statement On Tue, 23 May 2023, 13:24 Nimble'
+Phrase: 'Looks like my balance stays the same although i am paying every week '
+Phrase: ' Sent from Yahoo Mail on Android On Sun, May 7, 2023 at 14:00, Norm'
+Phrase: 'Please call me L Gounden On Thu, 23 Feb 2023, 18:52 Norman '
+Phrase: 'Good morning I want to settle this amount what is my balance now? Sent from my phone -------- Original message -------- From: Nimb'
+Phrase: 'I will call you On Thu, 16 Feb 2023, 16:31'
+Phrase: 'I cannot open the attachment Sent from Yahoo Mail on Android On Mon, Mar 6, 2023 at 11:52,'
+Phrase: 'Hi, I requested a callback to arrange a payment. I have full intentions to pay the account but am currently struggling to do so. Kindly call be before 10am tomorrow if possible please. Kind regards, Arlene On Mon, 06 Mar 2023, 22:34 Norman '
+Phrase: 'Good evening I ??ould not open the letter I will pay more into the account the end of March R200 I am employed contract again now. Thank you Jennifer Thompson 2023.3.6 On Mon, 13 Feb 2023, 18:13 Norman '
+Phrase: 'I will like to pay my account but I can't find the SBSA bank,please tell me the name of the bank Sent from my Huawei phone -------- Original message -------- From: Norma'
+Phrase: 'Hi I will pay my account month end. R500 THANKS On Tue, 07 Mar 2023, 1:24 am Norman '
+Phrase: 'Can I make arrangement to pay R300 every month on the 15 th. Kind regards Nokukhanya Blose On Mon, 6 Mar 2023, 19:45'
+Phrase: 'Hi, I would like to pay a payment, can I go ahead with it? Kind regard. Zoe Sent from my phone -------- Original message -------- From: Norma'
+Phrase: 'Morning will try to pay from this month. I was realy struckling. Kind Regards Jonathan Messiahs On Mon, Mar 6, 2023, 9:54 PM Norman'
+Phrase: 'What account is this? Sent from Outlook for iOS<https://aka.ms/o0ukef> ________________________________ From: Norma'
+Phrase: 'I will do the payment this weekend. On Mon, Mar 6, 2023, 22:34 Norman'
+Phrase: 'Good morning, Thank you for your email, however I am unemployed for a long time now. Standard bank need to pay out of my credit protection policy. Regards Henriette On Tue, 07 Mar 2023, 2:27 am Nim'
+Phrase: 'Hinhope allnis good I will be able to afford R150 a month On Mon, 06 Mar 2023, 22:07 Norman '
+Phrase: 'Payment was made on the 2nd. Check your system No payment received on your Mr Price account. Pay using https://payat.io/qr/1140381518105 Call: NBA 0872505532 Ref: 10MR29359 On Wed, 15 Feb 2023, 16:53 Norman '
+Phrase: 'Hi, I did not break any commitment, You broke yours because there??s still money in my account. THANDEKA DIAMOND ?? 044 884 0765 <tel:+27448840765> | 083 524 8019 <tel:+27835248019> ?? http://www.francoisferreira.com <https://francoisferreira.com> ?? thandeka@francoisferreira.com <mailto:thandeka@francoisferreira.com> ?? Farm 208, R102 Airport Road, George [logo]<https://francoisferreira.com/> [UXI] From: Norma'
+Phrase: 'Good Day Can we communicate via email? I work in a high noise area and can't hear my phone. I'd like to make payment arrangements that's suitable for me. Kind regards Amieda On Mon, 06 Mar 2023, 21:42 Norman '
+Phrase: 'good day team please not that you have to derbit the money from 31 each and every month my salary only comes on the 31 of every month thank you your faithful noluvo Yvonne pahlindlela. On Fri, Feb 3, 2023, 1:32 A'
+Phrase: 'I did make payment the same day i received a call to make arrangements to pay so i can not understand how its not paid On Mon, 06 Mar 2023, 20:48 Nim'
+Phrase: 'I want to pay and make payment arrangements On Mon, 06 Mar 2023, 18:44'
+Phrase: 'To whom may concern Good morning I received the email regarding my pay just now credit and I haven't forgotten about it,my problem is that am not working ryt now am only receiving grant for 2 kids and the amount I to pay it's beyond me I won't survive. I don't know what will do but I will see month end how much I can get to pay that debts. Thank you Mbali On Mon, 6 Mar 2023, 23:02'
+Phrase: 'Stuur vir my die bedrag wat uitstaande is On Tue, 07 Mar 2023, 00:55 Norman '
+Phrase: 'Good Day I would like sincerely offer my apology for not responding nor making payment I had unfortunate events happen which led me to hospital. Payment due will be made before end of the week. Thank you On Wed, 15 Feb 2023, 8:03 pm Norman'
+Phrase: 'Good Morning I am aware of my arrangement however I can only start paying from the first of April due to a start of new job. Please assist asap. On Mon, Mar 6, 2023, 8:44 PM Norman'
+Phrase: 'How much is the total On Mon, 06 Mar 2023, 20:51 Norman '
+Phrase: 'Hi Hope you well this day's I really wanted to activate my account and start paying for my credit slowly but didn't get that option give to me Please advise what can i do next to get this going Thanks Lita matabaro Sent from my phone -------- Original message -------- From: Ni'
+Phrase: 'Hi can i make new arrangement towards my wonga account On Mon, Mar 6, 2023, 10:41 PM Norman'
+Phrase: 'I will pay R250 at the end of this month. Thank you Hayley Nel On Mon, 6 Mar 2023, 22:55 Norman '
+Phrase: 'dear NIMBLE I would like to do debit order for every Friday just R100 starting from 24 march. should you wish to call me: Monday to friday @16:00 weekend im available @ any time. Thank you '
+Phrase: 'How mach i supposed to play? On Mon, 06 Mar 2023, 23:26 Norman '
+Phrase: 'Cheque of saving Acc because I want to be able to pay via EFT from my FNB app account Sent from my Huawei Mobile -------- Original Message -------- Subject: Victor Vuyolwethu, your credit record is in danger. From: Nimble Credit Fund 1 To: moalusivv@gmail.com CC: This email is intended for Victor Vuyolwethu Moalusi Account number: 16xx45xx72. If this is not you, please disregard and contact Nimble Credit Fund 1 on 087 286 0223 / info@nimblegroup.co.za to have your details removed from our system. You broke your commitment. Our Ref: 20CAP20106 Date: 2023/03/06 Dear Victor Vuyolwethu Our records indicate that payment for your Capitec account 20CAP20106 has not been received. Did you over commit? Do not worry, these things happen and we understand. Let us help you fix it before it causes even more harm to your credit record. We suggest you act today. You can of course pay from home via any of our convenient digital channels: Should you not be able to settle the account, you can arrange a suitable repayment plan that you can afford. A little is better than nothing. WE SUGGEST: - Using our easy-to-use NimblePay app - Give us a call on 087 286 0223 - Our safe and secure, dedicated self-service portal here: Visit FOR EFT OR CASH DEPOSIT AT THE BANK - OUR BANKING DETAILS ARE: Bank SBSA Account Holder NCF1 Capitec Branch Code 020909 Account Number 073100757 Please use the ref: 20CAP20106 We look forward to helping you towards your financially free future! sincerely, The team at Nimble Credit Fund 1 087 286 0223 ? ? ? ? ? The Nimble Group. 35 Brickfield Rd, Salt River, Cape Town. Visit our website '
+Phrase: 'Good morning Can i please start paying R500 from April On Tue, 7 Mar 2023, 00:50 Norman '
+Phrase: 'Good day I do not work at the moment and only live of childcare from my kids father.I can make payment of R200 at end of March. Regards On Wed, 08 Mar 2023, 01:58 Norman '
+Phrase: 'Can we make payment arrangements? From'
+Phrase: 'Good afternoon Can u deduct 500.00 from my salary from 15th march 2023? Kind regards Mokotedi MNJ On Fri, Feb 3, 2023, 02:0'
+Phrase: 'What is the balance On Fri, Feb 10, 2023, 00:1'
+Phrase: 'Good evening I would like to make arrangements on my installment date On Mon, 06 Mar 2023, 18:45'
+Phrase: 'Good day, Trust all is well. Please call regarding my payments because the banking details given to me whenever i pay the payment reject back to my account due to account not supported. call to arrange debit order on 0608730357. Thank you. Regards, KM Letswalo 0608730357 On Mon, Mar 6, 2023 at 7:39?PM Norman'
+Phrase: 'Hi Norman How much you suggest for monthly installments? On Wed, Mar 8, 2023 at 1:27?AM Norman'
+Phrase: 'Thanks very much for your time and your lenient. I'm having s problem of not having money but I promise that soon as I get it I will pay. Thanks On Mar 8, 2023 01:58, "Norman'
+Phrase: 'Can I be able to pay this amount through pick n pay On Mon, 06 Mar 2023, 23:09'
+Phrase: 'How much do i owe wonga Can i get a discount because wonga closed my account so i am not able to see how much i am owing and i don't have any action to pay On Tue, 07 Mar 2023, 00:18 Norman '
+Phrase: 'Good evening Please find attached my proof of payment. I will pay the remaining amount the end of this week. '
+Phrase: 'Please send me settlement quotes of all the accounts i have there. On Wed, 08 Mar 2023, 17:14 Norman '
+Phrase: 'Call me to make payment arrangements. KOVINDHREE GOVENDER (AWKA 653546) Established Financial Adviser | Personal Financial Advice: KZN BCOMM 114 Musgrave Road, 4th Floor, Musgrave Centre, Durban T. +27 (0)31 2504 122 C.+27 (0)63 128 2283 E. KGovender3@oldmutual.com<mailto:KGovender3@oldmutual.com> http://www.oldmutual.co.za<https://protect-za.mimecast.com/s/wHB5CoYmgAhlK680iz7QPC?domain=oldmutual.co.za> f. http://facebook.com/OldMutualSA<https://protect-za.mimecast.com/s/33dkCpgnj9UQxpyBTYsnWh?domain=facebook.com> t. @OldMutualSA [OM] From: Norma'
+Phrase: 'Good morning Can we please arrange a payment plan of 250 pm. I got robbed on the 26th of Jan. And eversince then I have not been able to buy a phone hence I'm using emails. Thank you Shirley Sent from Yahoo Mail on Android On Thu, Mar 9, 2023 at 4:38, N'
+Phrase: 'Good day, I'm struggling to make a payment due to unemployment. Can I get assistance in payment plan cause I cannot pay R640 in cash On Monday, March 6, 2023'
+Phrase: 'Can you kindly make settlement deduction for my presless account and sent me settlement letter for this month Kind regards Kutlwano On Tue, Feb 21, 2023, 6:27 P'
+Phrase: 'Good morning, is it possible if I can pay it off please On Fri, 10 Mar 2023, 03:47 Norman '
+Phrase: 'Good day, To whom may it concern. Apologies, I am currently unemployed but will try make payment of R50,00. Hope you understand. Thank you. Kind regards, Ms. Flucks On Wed, 08 Mar 2023, 22:28 Norman'
+Phrase: 'The account number isnt working Nirish Balliram. *Cell: 065 807 8416* *E-mail: nirishballiram7@gmail.com <nirishballiram7@gmail.com>* On Thu, Mar 9, 2023 at 10:57?PM Norman'
+
+2024-01-23 10:24:12 - Nltk_stemmer Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.72      0.56      0.63        52
+           1       0.62      0.78      0.69        49
+
+    accuracy                           0.66       101
+   macro avg       0.67      0.67      0.66       101
+weighted avg       0.68      0.66      0.66       101
+
+Correctly classified phrases:
+Phrase: '[image: WhatsApp Image 2023-05-18 at 08.09.35.jpg] Forwarded message --------- From: Val Cleinwerck <vcleinwerck@gmail.com> Date: Sat, Apr 8, 2023 at 8:29?AM Subject: Re: Letter of Demand To: Norman Bissett & Associates <legal@nimblegroup.co.za> Good Morning I trust this email finds you well. A blessed Easter weekend to you Just to advice i went to the UIF and they said i need a letter with a letterhead from you for issuing an unemployment letter thank you Regards Valencia On Wed, Mar 8, 2023 at 7:34?AM Norman Bissett & Associates < legal@nimblegroup.co.za> wrote: > Good day Sir/Madam, > > The letter and content is intended for Kleinwerck, V, Ms . If this is not > you please disregard this email. > > A letter of demand has been issued by Norman Bissett & Associates for your > outstanding ADT account REF JHKLE00731 / 84232232 as ceded. > > If you have any queries: Contact us on 087 286 0223, download our > NimblePay App http://hyperurl.co/npa1 > <http://post.spmailtechno.com/f/a/A-bvQ3InoTzlVM5JQ9lETg~~/AAJAsQA~/RgRl6qNnP0QXaHR0cDovL2h5cGVydXJsLmNvL25wYTFXA3NwY0IKZAFnHghkGUNpKVIVdmNsZWlud2VyY2tAZ21haWwuY29tWAQAAAAA> or > reply to this email. > > Regards, > > Norman Bissett & Associates > > Use account number as password to open document > '
+Phrase: 'Morning Please send me an updated statement. Thank you On Sat, 18 Feb 2023, 16:02 Nimble'
+Phrase: 'Good day Hope you are well. Can you PLS send me an update statement. I want to send it to my bookkeeper to audit all Directaxes. Thanks D Eastes On Thu, 2 Mar 2023, 22:43 Norman '
+Phrase: 'Good morning Even to this day I have not received my statement, I would like to know why it is so difficult for you to send my statement after the whole two montat of my request? *Regards'
+Phrase: 'Hi This is zanele ntini,I would to ask for my credit statement my ID 8901150589084 Kind regards Z.E Ntini '
+Phrase: 'Good day FYI Regards Deon Sekoe On Sat, 13 May 2023, 10:19 Norman '
+Phrase: 'Good Evening Please send me the statement every month end Regards MA Letsapa Disclaimer This Email and its contents are subject to the Eskom Holdings SOC Ltd EMAIL LEGAL NOTICE which can be viewed at https://www.eskom.co.za/about-eskom/email-legal-spam-disclaimer/ '
+Phrase: 'Good day Hope you are well please send my statement as a do not receive my statment als send with password thanks as the password do not work that was provided to me 1. Africa bank Ref 4al051499l 2. Africa bank 4al050735c 3. Standard bank 23sb18376 Account holder Mp van den berg 8804085284088 Thanks email to wambachclaudia@gmail.com '
+Phrase: 'Pls send me statements On Tue, 23 May 2023, 13:30'
+Phrase: 'Please forward me my account details '
+Phrase: 'Good morning please forward my statement.. Regards Refiloe Mapena '
+Phrase: 'Good morning. Could you please send me a detailed statement in order for me to make an informed decision On Thu, 25 May 2023, 04:13 Norman '
+Phrase: 'Good day May you please send me statement. On Tue, 23 May 2023, 13:48 Norman '
+Phrase: 'Good day Can i please have the statement of this account. Thank you. On Wed, May 24, 2023 at 4:42'
+Phrase: 'Kindly note that I keep on receiving this message that I owe your company. I do not owe you anything as I paid up my account On Wed, May 24, 2023 at 12:43?AM'
+Phrase: 'I will ask her or him about the balance of me I will regards '
+Phrase: 'Good day Please send me a statement Kind regards Theodora Robinson theodorarlzaan@gmail.com pop12@goedgedacht.org 0223000170 0827324711 ? On Thu, May 25, 2023 at 6:24?AM Nim'
+Phrase: 'Can plz email me my statement On Tue, 23 May 2023, 13:24 Nimble'
+Phrase: ' Sent from Yahoo Mail on Android On Sun, May 7, 2023 at 14:00, Norm'
+Phrase: 'Please call me L Gounden On Thu, 23 Feb 2023, 18:52 Norman '
+Phrase: 'Good morning I want to settle this amount what is my balance now? Sent from my phone -------- Original message -------- From: Nimb'
+Phrase: 'I will call you On Thu, 16 Feb 2023, 16:31'
+Phrase: 'I cannot open the attachment Sent from Yahoo Mail on Android On Mon, Mar 6, 2023 at 11:52,'
+Phrase: 'Hi, I requested a callback to arrange a payment. I have full intentions to pay the account but am currently struggling to do so. Kindly call be before 10am tomorrow if possible please. Kind regards, Arlene On Mon, 06 Mar 2023, 22:34 Norman '
+Phrase: 'Good evening I ??ould not open the letter I will pay more into the account the end of March R200 I am employed contract again now. Thank you Jennifer Thompson 2023.3.6 On Mon, 13 Feb 2023, 18:13 Norman '
+Phrase: 'I will like to pay my account but I can't find the SBSA bank,please tell me the name of the bank Sent from my Huawei phone -------- Original message -------- From: Norma'
+Phrase: 'Hi I will pay my account month end. R500 THANKS On Tue, 07 Mar 2023, 1:24 am Norman '
+Phrase: 'Can I make arrangement to pay R300 every month on the 15 th. Kind regards Nokukhanya Blose On Mon, 6 Mar 2023, 19:45'
+Phrase: 'Hi, I would like to pay a payment, can I go ahead with it? Kind regard. Zoe Sent from my phone -------- Original message -------- From: Norma'
+Phrase: 'Morning will try to pay from this month. I was realy struckling. Kind Regards Jonathan Messiahs On Mon, Mar 6, 2023, 9:54 PM Norman'
+Phrase: 'What account is this? Sent from Outlook for iOS<https://aka.ms/o0ukef> ________________________________ From: Norma'
+Phrase: 'I will do the payment this weekend. On Mon, Mar 6, 2023, 22:34 Norman'
+Phrase: 'Good day I instructed you to do a debit on the 28th February and you didn't. Kind Regards,Xolile Sent from Yahoo Mail on Android On Mon, 6 Mar 2023 at 20:32, Norm'
+Phrase: 'Payment was made on the 2nd. Check your system No payment received on your Mr Price account. Pay using https://payat.io/qr/1140381518105 Call: NBA 0872505532 Ref: 10MR29359 On Wed, 15 Feb 2023, 16:53 Norman '
+Phrase: 'Hi, I did not break any commitment, You broke yours because there??s still money in my account. THANDEKA DIAMOND ?? 044 884 0765 <tel:+27448840765> | 083 524 8019 <tel:+27835248019> ?? http://www.francoisferreira.com <https://francoisferreira.com> ?? thandeka@francoisferreira.com <mailto:thandeka@francoisferreira.com> ?? Farm 208, R102 Airport Road, George [logo]<https://francoisferreira.com/> [UXI] From: Norma'
+Phrase: 'Good day, The consumers have applied for debt counselling. Please provide a COB so payments can start. Disclaimer This message and any attachments may be confidential and may also be privileged or otherwise protected from disclosure. They are sent for the attention of the named addressee(s) only. If you are not the named addressee(s) please notify the sender immediately and destroy this message. In this case, you should not copy or distribute this message or attachments, use it for any purpose or disclose its contents to any other person. Opinions, conclusions and other information in this message that do not relate to the official business of the firm/company shall be understood as neither given nor endorsed by it. Daleen Nieuwoudt Attorneys, accepts no liability for any damage caused by any virus transmitted by this e-mail. Daleen Nieuwoudt Attorneys retains the copyright in this message as well as all attachments hereto if it was created by an employee of Daleen Nieuwoudt Attorneys. From: Norma'
+Phrase: 'Good Day Can we communicate via email? I work in a high noise area and can't hear my phone. I'd like to make payment arrangements that's suitable for me. Kind regards Amieda On Mon, 06 Mar 2023, 21:42 Norman '
+Phrase: 'I did make payment the same day i received a call to make arrangements to pay so i can not understand how its not paid On Mon, 06 Mar 2023, 20:48 Nim'
+Phrase: 'I want to pay and make payment arrangements On Mon, 06 Mar 2023, 18:44'
+Phrase: 'To whom may concern Good morning I received the email regarding my pay just now credit and I haven't forgotten about it,my problem is that am not working ryt now am only receiving grant for 2 kids and the amount I to pay it's beyond me I won't survive. I don't know what will do but I will see month end how much I can get to pay that debts. Thank you Mbali On Mon, 6 Mar 2023, 23:02'
+Phrase: 'Good Day I would like sincerely offer my apology for not responding nor making payment I had unfortunate events happen which led me to hospital. Payment due will be made before end of the week. Thank you On Wed, 15 Feb 2023, 8:03 pm Norman'
+Phrase: 'Good Morning I am aware of my arrangement however I can only start paying from the first of April due to a start of new job. Please assist asap. On Mon, Mar 6, 2023, 8:44 PM Norman'
+Phrase: 'How much is the total On Mon, 06 Mar 2023, 20:51 Norman '
+Phrase: 'Hi Hope you well this day's I really wanted to activate my account and start paying for my credit slowly but didn't get that option give to me Please advise what can i do next to get this going Thanks Lita matabaro Sent from my phone -------- Original message -------- From: Ni'
+Phrase: 'I will pay R250 at the end of this month. Thank you Hayley Nel On Mon, 6 Mar 2023, 22:55 Norman '
+Phrase: 'dear NIMBLE I would like to do debit order for every Friday just R100 starting from 24 march. should you wish to call me: Monday to friday @16:00 weekend im available @ any time. Thank you '
+Phrase: 'How mach i supposed to play? On Mon, 06 Mar 2023, 23:26 Norman '
+Phrase: 'Cheque of saving Acc because I want to be able to pay via EFT from my FNB app account Sent from my Huawei Mobile -------- Original Message -------- Subject: Victor Vuyolwethu, your credit record is in danger. From: Nimble Credit Fund 1 To: moalusivv@gmail.com CC: This email is intended for Victor Vuyolwethu Moalusi Account number: 16xx45xx72. If this is not you, please disregard and contact Nimble Credit Fund 1 on 087 286 0223 / info@nimblegroup.co.za to have your details removed from our system. You broke your commitment. Our Ref: 20CAP20106 Date: 2023/03/06 Dear Victor Vuyolwethu Our records indicate that payment for your Capitec account 20CAP20106 has not been received. Did you over commit? Do not worry, these things happen and we understand. Let us help you fix it before it causes even more harm to your credit record. We suggest you act today. You can of course pay from home via any of our convenient digital channels: Should you not be able to settle the account, you can arrange a suitable repayment plan that you can afford. A little is better than nothing. WE SUGGEST: - Using our easy-to-use NimblePay app - Give us a call on 087 286 0223 - Our safe and secure, dedicated self-service portal here: Visit FOR EFT OR CASH DEPOSIT AT THE BANK - OUR BANKING DETAILS ARE: Bank SBSA Account Holder NCF1 Capitec Branch Code 020909 Account Number 073100757 Please use the ref: 20CAP20106 We look forward to helping you towards your financially free future! sincerely, The team at Nimble Credit Fund 1 087 286 0223 ? ? ? ? ? The Nimble Group. 35 Brickfield Rd, Salt River, Cape Town. Visit our website '
+Phrase: 'Good morning Can i please start paying R500 from April On Tue, 7 Mar 2023, 00:50 Norman '
+Phrase: 'Good day I do not work at the moment and only live of childcare from my kids father.I can make payment of R200 at end of March. Regards On Wed, 08 Mar 2023, 01:58 Norman '
+Phrase: 'Can we make payment arrangements? From'
+Phrase: 'What is the balance On Fri, Feb 10, 2023, 00:1'
+Phrase: 'Good day, Trust all is well. Please call regarding my payments because the banking details given to me whenever i pay the payment reject back to my account due to account not supported. call to arrange debit order on 0608730357. Thank you. Regards, KM Letswalo 0608730357 On Mon, Mar 6, 2023 at 7:39?PM Norman'
+Phrase: 'Thanks very much for your time and your lenient. I'm having s problem of not having money but I promise that soon as I get it I will pay. Thanks On Mar 8, 2023 01:58, "Norman'
+Phrase: 'Can I be able to pay this amount through pick n pay On Mon, 06 Mar 2023, 23:09'
+Phrase: 'How much do i owe wonga Can i get a discount because wonga closed my account so i am not able to see how much i am owing and i don't have any action to pay On Tue, 07 Mar 2023, 00:18 Norman '
+Phrase: 'Good evening Please find attached my proof of payment. I will pay the remaining amount the end of this week. '
+Phrase: 'Please send me settlement quotes of all the accounts i have there. On Wed, 08 Mar 2023, 17:14 Norman '
+Phrase: 'Call me to make payment arrangements. KOVINDHREE GOVENDER (AWKA 653546) Established Financial Adviser | Personal Financial Advice: KZN BCOMM 114 Musgrave Road, 4th Floor, Musgrave Centre, Durban T. +27 (0)31 2504 122 C.+27 (0)63 128 2283 E. KGovender3@oldmutual.com<mailto:KGovender3@oldmutual.com> http://www.oldmutual.co.za<https://protect-za.mimecast.com/s/wHB5CoYmgAhlK680iz7QPC?domain=oldmutual.co.za> f. http://facebook.com/OldMutualSA<https://protect-za.mimecast.com/s/33dkCpgnj9UQxpyBTYsnWh?domain=facebook.com> t. @OldMutualSA [OM] From: Norma'
+Phrase: 'Hi Please forward updated statement and password to statement I have done payment.on the 27 Feb and it's not reflected Regards Ugesh Naicker 067-163-9692 0615829787 On Mon, 06 Mar 2023, 22:33'
+Phrase: 'Good morning Can we please arrange a payment plan of 250 pm. I got robbed on the 26th of Jan. And eversince then I have not been able to buy a phone hence I'm using emails. Thank you Shirley Sent from Yahoo Mail on Android On Thu, Mar 9, 2023 at 4:38, N'
+Phrase: 'Good day, I'm struggling to make a payment due to unemployment. Can I get assistance in payment plan cause I cannot pay R640 in cash On Monday, March 6, 2023'
+Phrase: 'Good Evening Nimble Hope all is well with you. Note that I'm aware of this payment and I currently I'm not working , beside I'm pushing so hard to get or have money on my account every month and I'm failing because I'm busy seeking for a job right now. Kindly please assist me on how to do going forward please please. Because I don't wanna promise you lie again. Your help will be highly appreciated. Thank you Mduduzi Mabena On Mon, 06 Mar 2023, 19:53 Nimble'
+Phrase: 'Can you kindly make settlement deduction for my presless account and sent me settlement letter for this month Kind regards Kutlwano On Tue, Feb 21, 2023, 6:27 P'
+Phrase: 'Good morning, is it possible if I can pay it off please On Fri, 10 Mar 2023, 03:47 Norman '
+Phrase: 'Good day, To whom may it concern. Apologies, I am currently unemployed but will try make payment of R50,00. Hope you understand. Thank you. Kind regards, Ms. Flucks On Wed, 08 Mar 2023, 22:28 Norman'
+Phrase: 'The account number isnt working Nirish Balliram. *Cell: 065 807 8416* *E-mail: nirishballiram7@gmail.com <nirishballiram7@gmail.com>* On Thu, Mar 9, 2023 at 10:57?PM Norman'
+
+2024-01-23 10:24:46 - Nltk_lemma Classifier Performance:
+              precision    recall  f1-score   support
+
+           0       0.76      0.48      0.59        52
+           1       0.60      0.84      0.70        49
+
+    accuracy                           0.65       101
+   macro avg       0.68      0.66      0.64       101
+weighted avg       0.68      0.65      0.64       101
+
+Correctly classified phrases:
+Phrase: 'Morning Please send me an updated statement. Thank you On Sat, 18 Feb 2023, 16:02 Nimble'
+Phrase: 'Good day Hope you are well. Can you PLS send me an update statement. I want to send it to my bookkeeper to audit all Directaxes. Thanks D Eastes On Thu, 2 Mar 2023, 22:43 Norman '
+Phrase: 'Good morning Even to this day I have not received my statement, I would like to know why it is so difficult for you to send my statement after the whole two montat of my request? *Regards'
+Phrase: 'Hi This is zanele ntini,I would to ask for my credit statement my ID 8901150589084 Kind regards Z.E Ntini '
+Phrase: 'Good day FYI Regards Deon Sekoe On Sat, 13 May 2023, 10:19 Norman '
+Phrase: 'Good Evening Please send me the statement every month end Regards MA Letsapa Disclaimer This Email and its contents are subject to the Eskom Holdings SOC Ltd EMAIL LEGAL NOTICE which can be viewed at https://www.eskom.co.za/about-eskom/email-legal-spam-disclaimer/ '
+Phrase: 'Good day Hope you are well please send my statement as a do not receive my statment als send with password thanks as the password do not work that was provided to me 1. Africa bank Ref 4al051499l 2. Africa bank 4al050735c 3. Standard bank 23sb18376 Account holder Mp van den berg 8804085284088 Thanks email to wambachclaudia@gmail.com '
+Phrase: 'Pls send me statements On Tue, 23 May 2023, 13:30'
+Phrase: 'Please forward me my account details '
+Phrase: 'Good morning please forward my statement.. Regards Refiloe Mapena '
+Phrase: 'Good morning. Could you please send me a detailed statement in order for me to make an informed decision On Thu, 25 May 2023, 04:13 Norman '
+Phrase: 'Good day May you please send me statement. On Tue, 23 May 2023, 13:48 Norman '
+Phrase: 'Good day Can i please have the statement of this account. Thank you. On Wed, May 24, 2023 at 4:42'
+Phrase: 'Good day Please send me a statement Kind regards Theodora Robinson theodorarlzaan@gmail.com pop12@goedgedacht.org 0223000170 0827324711 ? On Thu, May 25, 2023 at 6:24?AM Nim'
+Phrase: 'Can plz email me my statement On Tue, 23 May 2023, 13:24 Nimble'
+Phrase: ' Sent from Yahoo Mail on Android On Sun, May 7, 2023 at 14:00, Norm'
+Phrase: 'Please call me L Gounden On Thu, 23 Feb 2023, 18:52 Norman '
+Phrase: 'Good morning I want to settle this amount what is my balance now? Sent from my phone -------- Original message -------- From: Nimb'
+Phrase: 'I will call you On Thu, 16 Feb 2023, 16:31'
+Phrase: 'I cannot open the attachment Sent from Yahoo Mail on Android On Mon, Mar 6, 2023 at 11:52,'
+Phrase: 'Hi, I requested a callback to arrange a payment. I have full intentions to pay the account but am currently struggling to do so. Kindly call be before 10am tomorrow if possible please. Kind regards, Arlene On Mon, 06 Mar 2023, 22:34 Norman '
+Phrase: 'Good evening I ??ould not open the letter I will pay more into the account the end of March R200 I am employed contract again now. Thank you Jennifer Thompson 2023.3.6 On Mon, 13 Feb 2023, 18:13 Norman '
+Phrase: 'I will like to pay my account but I can't find the SBSA bank,please tell me the name of the bank Sent from my Huawei phone -------- Original message -------- From: Norma'
+Phrase: 'Hi I will pay my account month end. R500 THANKS On Tue, 07 Mar 2023, 1:24 am Norman '
+Phrase: 'Can I make arrangement to pay R300 every month on the 15 th. Kind regards Nokukhanya Blose On Mon, 6 Mar 2023, 19:45'
+Phrase: 'Hi, I would like to pay a payment, can I go ahead with it? Kind regard. Zoe Sent from my phone -------- Original message -------- From: Norma'
+Phrase: 'Morning will try to pay from this month. I was realy struckling. Kind Regards Jonathan Messiahs On Mon, Mar 6, 2023, 9:54 PM Norman'
+Phrase: 'What account is this? Sent from Outlook for iOS<https://aka.ms/o0ukef> ________________________________ From: Norma'
+Phrase: 'I will do the payment this weekend. On Mon, Mar 6, 2023, 22:34 Norman'
+Phrase: 'Good day I instructed you to do a debit on the 28th February and you didn't. Kind Regards,Xolile Sent from Yahoo Mail on Android On Mon, 6 Mar 2023 at 20:32, Norm'
+Phrase: 'Payment was made on the 2nd. Check your system No payment received on your Mr Price account. Pay using https://payat.io/qr/1140381518105 Call: NBA 0872505532 Ref: 10MR29359 On Wed, 15 Feb 2023, 16:53 Norman '
+Phrase: 'Hi, I did not break any commitment, You broke yours because there??s still money in my account. THANDEKA DIAMOND ?? 044 884 0765 <tel:+27448840765> | 083 524 8019 <tel:+27835248019> ?? http://www.francoisferreira.com <https://francoisferreira.com> ?? thandeka@francoisferreira.com <mailto:thandeka@francoisferreira.com> ?? Farm 208, R102 Airport Road, George [logo]<https://francoisferreira.com/> [UXI] From: Norma'
+Phrase: 'Good day, The consumers have applied for debt counselling. Please provide a COB so payments can start. Disclaimer This message and any attachments may be confidential and may also be privileged or otherwise protected from disclosure. They are sent for the attention of the named addressee(s) only. If you are not the named addressee(s) please notify the sender immediately and destroy this message. In this case, you should not copy or distribute this message or attachments, use it for any purpose or disclose its contents to any other person. Opinions, conclusions and other information in this message that do not relate to the official business of the firm/company shall be understood as neither given nor endorsed by it. Daleen Nieuwoudt Attorneys, accepts no liability for any damage caused by any virus transmitted by this e-mail. Daleen Nieuwoudt Attorneys retains the copyright in this message as well as all attachments hereto if it was created by an employee of Daleen Nieuwoudt Attorneys. From: Norma'
+Phrase: 'Good Day Can we communicate via email? I work in a high noise area and can't hear my phone. I'd like to make payment arrangements that's suitable for me. Kind regards Amieda On Mon, 06 Mar 2023, 21:42 Norman '
+Phrase: 'I did make payment the same day i received a call to make arrangements to pay so i can not understand how its not paid On Mon, 06 Mar 2023, 20:48 Nim'
+Phrase: 'I want to pay and make payment arrangements On Mon, 06 Mar 2023, 18:44'
+Phrase: 'To whom may concern Good morning I received the email regarding my pay just now credit and I haven't forgotten about it,my problem is that am not working ryt now am only receiving grant for 2 kids and the amount I to pay it's beyond me I won't survive. I don't know what will do but I will see month end how much I can get to pay that debts. Thank you Mbali On Mon, 6 Mar 2023, 23:02'
+Phrase: 'Good Day I would like sincerely offer my apology for not responding nor making payment I had unfortunate events happen which led me to hospital. Payment due will be made before end of the week. Thank you On Wed, 15 Feb 2023, 8:03 pm Norman'
+Phrase: 'Good Morning I am aware of my arrangement however I can only start paying from the first of April due to a start of new job. Please assist asap. On Mon, Mar 6, 2023, 8:44 PM Norman'
+Phrase: 'How much is the total On Mon, 06 Mar 2023, 20:51 Norman '
+Phrase: 'Hi Hope you well this day's I really wanted to activate my account and start paying for my credit slowly but didn't get that option give to me Please advise what can i do next to get this going Thanks Lita matabaro Sent from my phone -------- Original message -------- From: Ni'
+Phrase: 'Hi can i make new arrangement towards my wonga account On Mon, Mar 6, 2023, 10:41 PM Norman'
+Phrase: 'I will pay R250 at the end of this month. Thank you Hayley Nel On Mon, 6 Mar 2023, 22:55 Norman '
+Phrase: 'dear NIMBLE I would like to do debit order for every Friday just R100 starting from 24 march. should you wish to call me: Monday to friday @16:00 weekend im available @ any time. Thank you '
+Phrase: 'How mach i supposed to play? On Mon, 06 Mar 2023, 23:26 Norman '
+Phrase: 'Cheque of saving Acc because I want to be able to pay via EFT from my FNB app account Sent from my Huawei Mobile -------- Original Message -------- Subject: Victor Vuyolwethu, your credit record is in danger. From: Nimble Credit Fund 1 To: moalusivv@gmail.com CC: This email is intended for Victor Vuyolwethu Moalusi Account number: 16xx45xx72. If this is not you, please disregard and contact Nimble Credit Fund 1 on 087 286 0223 / info@nimblegroup.co.za to have your details removed from our system. You broke your commitment. Our Ref: 20CAP20106 Date: 2023/03/06 Dear Victor Vuyolwethu Our records indicate that payment for your Capitec account 20CAP20106 has not been received. Did you over commit? Do not worry, these things happen and we understand. Let us help you fix it before it causes even more harm to your credit record. We suggest you act today. You can of course pay from home via any of our convenient digital channels: Should you not be able to settle the account, you can arrange a suitable repayment plan that you can afford. A little is better than nothing. WE SUGGEST: - Using our easy-to-use NimblePay app - Give us a call on 087 286 0223 - Our safe and secure, dedicated self-service portal here: Visit FOR EFT OR CASH DEPOSIT AT THE BANK - OUR BANKING DETAILS ARE: Bank SBSA Account Holder NCF1 Capitec Branch Code 020909 Account Number 073100757 Please use the ref: 20CAP20106 We look forward to helping you towards your financially free future! sincerely, The team at Nimble Credit Fund 1 087 286 0223 ? ? ? ? ? The Nimble Group. 35 Brickfield Rd, Salt River, Cape Town. Visit our website '
+Phrase: 'Good morning Can i please start paying R500 from April On Tue, 7 Mar 2023, 00:50 Norman '
+Phrase: 'Good day I do not work at the moment and only live of childcare from my kids father.I can make payment of R200 at end of March. Regards On Wed, 08 Mar 2023, 01:58 Norman '
+Phrase: 'Can we make payment arrangements? From'
+Phrase: 'Good evening I would like to make arrangements on my installment date On Mon, 06 Mar 2023, 18:45'
+Phrase: 'Good day, Trust all is well. Please call regarding my payments because the banking details given to me whenever i pay the payment reject back to my account due to account not supported. call to arrange debit order on 0608730357. Thank you. Regards, KM Letswalo 0608730357 On Mon, Mar 6, 2023 at 7:39?PM Norman'
+Phrase: 'Hi Norman How much you suggest for monthly installments? On Wed, Mar 8, 2023 at 1:27?AM Norman'
+Phrase: 'Thanks very much for your time and your lenient. I'm having s problem of not having money but I promise that soon as I get it I will pay. Thanks On Mar 8, 2023 01:58, "Norman'
+Phrase: 'Can I be able to pay this amount through pick n pay On Mon, 06 Mar 2023, 23:09'
+Phrase: 'How much do i owe wonga Can i get a discount because wonga closed my account so i am not able to see how much i am owing and i don't have any action to pay On Tue, 07 Mar 2023, 00:18 Norman '
+Phrase: 'Good evening Please find attached my proof of payment. I will pay the remaining amount the end of this week. '
+Phrase: 'Please send me settlement quotes of all the accounts i have there. On Wed, 08 Mar 2023, 17:14 Norman '
+Phrase: 'Call me to make payment arrangements. KOVINDHREE GOVENDER (AWKA 653546) Established Financial Adviser | Personal Financial Advice: KZN BCOMM 114 Musgrave Road, 4th Floor, Musgrave Centre, Durban T. +27 (0)31 2504 122 C.+27 (0)63 128 2283 E. KGovender3@oldmutual.com<mailto:KGovender3@oldmutual.com> http://www.oldmutual.co.za<https://protect-za.mimecast.com/s/wHB5CoYmgAhlK680iz7QPC?domain=oldmutual.co.za> f. http://facebook.com/OldMutualSA<https://protect-za.mimecast.com/s/33dkCpgnj9UQxpyBTYsnWh?domain=facebook.com> t. @OldMutualSA [OM] From: Norma'
+Phrase: 'Hi Please forward updated statement and password to statement I have done payment.on the 27 Feb and it's not reflected Regards Ugesh Naicker 067-163-9692 0615829787 On Mon, 06 Mar 2023, 22:33'
+Phrase: 'Good morning Can we please arrange a payment plan of 250 pm. I got robbed on the 26th of Jan. And eversince then I have not been able to buy a phone hence I'm using emails. Thank you Shirley Sent from Yahoo Mail on Android On Thu, Mar 9, 2023 at 4:38, N'
+Phrase: 'Good day, I'm struggling to make a payment due to unemployment. Can I get assistance in payment plan cause I cannot pay R640 in cash On Monday, March 6, 2023'
+Phrase: 'Good Evening Nimble Hope all is well with you. Note that I'm aware of this payment and I currently I'm not working , beside I'm pushing so hard to get or have money on my account every month and I'm failing because I'm busy seeking for a job right now. Kindly please assist me on how to do going forward please please. Because I don't wanna promise you lie again. Your help will be highly appreciated. Thank you Mduduzi Mabena On Mon, 06 Mar 2023, 19:53 Nimble'
+Phrase: 'Can you kindly make settlement deduction for my presless account and sent me settlement letter for this month Kind regards Kutlwano On Tue, Feb 21, 2023, 6:27 P'
+Phrase: 'Good morning, is it possible if I can pay it off please On Fri, 10 Mar 2023, 03:47 Norman '
+Phrase: 'Good day, To whom may it concern. Apologies, I am currently unemployed but will try make payment of R50,00. Hope you understand. Thank you. Kind regards, Ms. Flucks On Wed, 08 Mar 2023, 22:28 Norman'
+Phrase: 'The account number isnt working Nirish Balliram. *Cell: 065 807 8416* *E-mail: nirishballiram7@gmail.com <nirishballiram7@gmail.com>* On Thu, Mar 9, 2023 at 10:57?PM Norman'

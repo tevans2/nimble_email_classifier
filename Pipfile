@@ -9,6 +9,8 @@ scikit-metrics = "*"
 tqdm = "*"
 openai = "*"
 python-dotenv = "*"
+requests = "*"
+bs4 = "*"
 
 [dev-packages]
 
